@@ -7,7 +7,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <h1>Hello From Dev</h1>
+        <h1>Hello From Amplify</h1>
         <div style={{ border: 'solid 2px red', padding: '5px', backgroundColor: 'yellow', color: 'orange' }}>
           <h1>We now have Auth!</h1>
         </div>
